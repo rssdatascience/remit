@@ -14,3 +14,12 @@ The remit of the Data Science section (DSS) is to be a professional body that re
 * Supporting the pipeline and career development of data scientists and statisticians by elevating skill sets to work in the modern world
 * Supporting important emerging topics such as ethics, privacy, algorithmic responsibility and personalization - lifting the quality of the conversation
 * Fostering multi-disciplinary connections and the exchanging of ideas
+
+## Ways to get in touch
+
+Ways to get in get in touch with the Data Science Section:
+
+* Slack: [https://rssdatascience.slack.com](https://rssdatascience.slack.com)
+* LinkedIN: [https://www.linkedin.com/company-beta/11150048/](https://www.linkedin.com/company-beta/11150048/)
+* Github: [https://github.com/rssdatascience](https://github.com/rssdatascience)
+* Twitter: [https://twitter.com/RSS_DSS](https://twitter.com/RSS_DSS)
